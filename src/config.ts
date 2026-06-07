@@ -273,25 +273,19 @@ export const navBarConfig: NavBarConfig = {
 			url: "/links/",
 			icon: "material-symbols:link",
 			children: [
-				{
-					name: "GitHub",
-					url: "https://github.com/LyraVoid/Mizuki",
-					external: true,
-					icon: "fa7-brands:github",
-				},
-				{
-					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
-					external: true,
-					icon: "fa7-brands:bilibili",
-				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
-				},
-			],
+                {
+                    name: "GitHub",
+                    url: "https://github.com/weic13",
+                    external: true,
+                    icon: "fa7-brands:github",
+                },
+                {
+                    name: "Bilibili",
+                    url: "https://space.bilibili.com/452059200",
+                    external: true,
+                    icon: "fa7-brands:bilibili",
+                },
+            ],
 		},
 		{
 			name: "My",
